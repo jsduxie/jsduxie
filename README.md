@@ -9,7 +9,7 @@
 - :lock: Accredited Affiliate Member of the Chartered Institute of Information Security
 - :paperclip: ITIL 4 Foundation Certified
 
-![GitHub stats](github-readme-stats-ns3lf4z2k-james-duxburys-projects.vercel.app?username=jsduxie&hide=contribs,prs)
+![GitHub stats](github-readme-stats-ns3lf4z2k-james-duxburys-projects.vercel.app/api?username=jsduxie)
 
 ---
 ## Languages and Tools
