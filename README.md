@@ -2,7 +2,23 @@
 ![Davis Thorne and Partners-3](https://github.com/jsduxie/jsduxie/assets/115461646/e605301e-bc8a-4c1f-95fe-b8b354294486)
 
 ---
-# About Me
-<a href="https://www.linkedin.com/in/jamesduxbury03/">
-  <img src=![174857](https://github.com/jsduxie/jsduxie/assets/115461646/846b5b28-e9c9-4f5d-9fae-f94c22bd86fb)/>
-</a>
+## About Me
+- 📈 Aspiring Software Engineer
+- 🏫 Second Year MEng Computer Science Undergraduate at Durham University
+- 💻 IT Technician at Snap-on
+- :lock: Accredited Affiliate Member of the Chartered Institute of Information Security
+- :paperclip: ITIL 4 Foundation Certified
+
+---
+## Languages and Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
+</div>
