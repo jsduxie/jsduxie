@@ -1,4 +1,4 @@
-# Hello, I am James Duxbury!
+# 👋: Hello, I am James Duxbury!
 ![Davis Thorne and Partners-3](https://github.com/jsduxie/jsduxie/assets/115461646/e605301e-bc8a-4c1f-95fe-b8b354294486)
 
 ---
@@ -8,6 +8,8 @@
 - 💻 IT Technician at Snap-on
 - :lock: Accredited Affiliate Member of the Chartered Institute of Information Security
 - :paperclip: ITIL 4 Foundation Certified
+
+![GitHub stats](github-readme-stats-ns3lf4z2k-james-duxburys-projects.vercel.app?username=jsduxie&hide=contribs,prs)
 
 ---
 ## Languages and Tools
