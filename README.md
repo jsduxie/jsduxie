@@ -27,7 +27,7 @@
 </div>
 
 ## Projects
-Role-Playing Game to Companion IBM SkillsBuild
+### Role-Playing Game to Companion IBM SkillsBuild
 <img width="575" alt="Main Menu" src="https://github.com/jsduxie/jsduxie/assets/115461646/be418066-24bb-465e-bfb8-f180b784d541">
 - SkillsBuild is IBM's premier careers and skillsbuilding platform
 - For our second year Software Engineering project, IBM tasked us with creating a role-playing game that incorporated the questions from SkillsBuild into an interactive game to promote continued, engaged learning
