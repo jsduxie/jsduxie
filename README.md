@@ -29,7 +29,7 @@
 ## Projects
 ### Role-Playing Game to Companion IBM SkillsBuild <br><br>
 <div id="skillsbuild-menu"><img width="575" alt="Main Menu" src="https://github.com/jsduxie/jsduxie/assets/115461646/be418066-24bb-465e-bfb8-f180b784d541"></div>
-- <a href="https://skillsbuild.org"/> is IBM's premier careers and skillsbuilding platform
-- For our second year Software Engineering project, IBM tasked us with creating a role-playing game that incorporated the questions from SkillsBuild into an interactive game to promote continued, engaged learning
-- On this project, I focussed on building the characters/NPCs and interactable objects that delivered the questions and enabled progression
-- Unfortunately, I currently cannot share the repo yet, but keep a look out over the coming months!
+- 🏫 <a href="https://skillsbuild.org">SkillsBuild</a> is IBM's premier careers and skillsbuilding platform
+- 🎮 For our second year Software Engineering project, IBM tasked us with creating a role-playing game that incorporated the questions from SkillsBuild into an interactive game to promote continued, engaged learning
+- 🧍On this project, I focussed on building the characters/NPCs and interactable objects that delivered the questions and enabled progression
+- ❎ Unfortunately, I currently cannot share the repo just yet, but keep a look out over the coming months!
