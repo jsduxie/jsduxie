@@ -3,12 +3,12 @@
 
 ## About Me
 - 📈 Aspiring Software Engineer
-- 🏫 Second Year MEng Computer Science Undergraduate at Durham University
+- 🏫 Third Year MEng Computer Science Undergraduate at Durham University
 - 💻 IT Technician at Snap-on
 - :lock: Accredited Affiliate Member of the Chartered Institute of Information Security
 - :paperclip: ITIL 4 Foundation Certified
 
-![GitHub stats](https://github-readme-stats-nu-liart-37.vercel.app/api?username=jsduxie&hide=stars,issues&show_icons=true&theme=transparent&rank_icon=github)
+![GitHub stats](https://github-readme-stats-nu-liart-37.vercel.app/api?username=jsduxie&show_icons=true&theme=transparent&rank_icon=github)
 
 ## Languages and Tools
 <div>
