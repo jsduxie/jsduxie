@@ -40,7 +40,7 @@ I am a Third Year MEng Computer Science at Durham University, hoping to become a
   </ul>
 </div>
 
-### Role-Playing Game to Companion IBM SkillsBuild <br><br>
+### Image Processing to Repair Damaged X-Rays with OpenCV and Python <br><br>
 <div id="skillsbuild-menu"><img width="575" alt="Main Menu" src="images/opencv-workflow.png"></div>
 <div id="opencv-info"> 
   <ul>
