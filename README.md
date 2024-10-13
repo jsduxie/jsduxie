@@ -47,5 +47,6 @@ I am a Third Year MEng Computer Science at Durham University, hoping to become a
     <li>🔧 Developed a solution using <em>OpenCV</em> and <em>Python</em> to repair damaged X-ray images and improve the performance of a pretrained classifier.</li> <li>📉 Improved classifier accuracy from <em>0.55</em>(baseline) to <em>0.90</em> by enhancing image quality through techniques such as noise reduction, inpainting, and edge detection.</li> 
     <li>🖼️ Applied <em>Canny Edge Detection</em> to identify missing regions and leveraged <em>Criminisi's Inpainting Algorithm</em> for more realistic image restoration.</li> <li>📊 Results showed significant improvement in X-ray image quality, directly boosting diagnostic accuracy with restored images.</li> 
     <li>💡 This project demonstrates practical skills in image processing, algorithm implementation, and OpenCV.</li>
-  </ul> 
+    <li>🔗 <a href='https://github.com/jsduxie/opencv-xray-repair'>Link to Repo!</a></li>
+  </ul>
 </div>
