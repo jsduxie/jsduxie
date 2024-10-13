@@ -44,8 +44,8 @@ I am a Third Year MEng Computer Science at Durham University, hoping to become a
 <div id="skillsbuild-menu"><img width="575" alt="Main Menu" src="images/opencv-workflow.png"></div>
 <div id="opencv-info"> 
   <ul>
-    <li>🔧 Developed a solution using **OpenCV** and **Python** to **repair damaged X-ray images** and improve the performance of a pretrained classifier.</li> <li>📉 Improved classifier accuracy from **0.55 (baseline)** to **0.90** by enhancing image quality through techniques such as noise reduction, inpainting, and edge detection.</li> 
-    <li>🖼️ Applied **Canny Edge Detection** to identify missing regions and leveraged **Criminisi's Inpainting Algorithm** for more realistic image restoration.</li> <li>📊 Results showed significant improvement in X-ray image quality, directly boosting diagnostic accuracy with restored images.</li> 
+    <li>🔧 Developed a solution using <em>OpenCV</em> and <em>Python</em> to repair damaged X-ray images and improve the performance of a pretrained classifier.</li> <li>📉 Improved classifier accuracy from <em>0.55</em>(baseline) to <em>0.90</em> by enhancing image quality through techniques such as noise reduction, inpainting, and edge detection.</li> 
+    <li>🖼️ Applied <em>Canny Edge Detection</em> to identify missing regions and leveraged <em>Criminisi's Inpainting Algorithm</em> for more realistic image restoration.</li> <li>📊 Results showed significant improvement in X-ray image quality, directly boosting diagnostic accuracy with restored images.</li> 
     <li>💡 This project demonstrates practical skills in image processing, algorithm implementation, and OpenCV.</li>
   </ul> 
 </div>
