@@ -40,7 +40,7 @@ Outside of work, I'm a big Formula 1 fan and always happy to talk race strategy.
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=jsduxie&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+![]([](https://vercel.com/james-duxburys-projects/github-profile-trophy/HSSZ1b6DFyKdWp3tB8vYfsq1q2eC)/?username=jsduxie&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💻 Projects
 
